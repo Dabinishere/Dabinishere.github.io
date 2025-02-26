@@ -18,3 +18,5 @@ excerpt: "KD 스터디 논문 리뷰 - 0212 발표"
 따라서 이미지 인코더와 픽셀 디코더를 고정하고 트랜스포머 디코더의 구성요소를 미세 조정하는 방식을 사용함
 L개 트랜스포머 블록 각각에 셀프 어텐션 계층, 크로스 어텐션 계층, FFN 포함됨
 트랜스포머 디코더에 대해서는 크로스 어텐션 계층과 FFN만 미세조정하면서 균형을 맞춤
+
+![fig1](https://1drv.ms/i/c/af5642aec05791fb/IQcKWsc_laVFSbuUppCnai4eAZeIPwh5h1T-aGOJVvxvfNQ?width=1604&height=812)
