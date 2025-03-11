@@ -31,7 +31,7 @@ authors:
 journal_title: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 journal_title_abbr: CVPR
 year: 2025
-volume: false
+volume: 
 issue: false
 page_start: 1
 page_end: 16
