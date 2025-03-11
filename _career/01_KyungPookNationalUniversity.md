@@ -16,5 +16,5 @@ history:
     jobs:
       - title: "NA"
     site: "Daegu, Republic of Korea"
-    remark: "NA"
+    remark:
 ---

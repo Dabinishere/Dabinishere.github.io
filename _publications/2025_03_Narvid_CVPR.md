@@ -4,9 +4,11 @@ authors:
 - first_name: Chan
   last_name: hur
   role: first_equally
+  correspondence: false
 - first_name: Jeong-hun
   last_name: Hong
   role: first_equally
+  correspondence: false
 - first_name: Dong-hun
   last_name: Lee
   role: contributing
@@ -29,7 +31,7 @@ authors:
 journal_title: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
 journal_title_abbr: CVPR
 year: 2025
-volume:
+volume: false
 issue: false
 page_start: 1
 page_end: 16
