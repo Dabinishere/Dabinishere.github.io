@@ -1,5 +1,5 @@
 ---
-title: Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions
+title: "Narrating the Video: Boosting Text-Video Retrieval via Comprehensive Utilization of Frame-Level Captions"
 authors:
 - first_name: Chan
   last_name: hur
