@@ -247,6 +247,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 
 # mimic GitHub Pages with --safe
 whitelist:
